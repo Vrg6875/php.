@@ -1,0 +1,2 @@
+hello vicky my name hai kutta tumara naam kyabhai 
+Modals for Edit and Delete: Modal dialogs provide a clean interface for updating or deleting notes without navigating to separate pages.

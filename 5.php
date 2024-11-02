@@ -1,11 +1,23 @@
-<?php 
-$name='raj gupta';
-$income=700;
-echo "name is $name <br> income is $income"."<br>";
-echo "name is"  .  "vicky"."<br>";
-echo "word count is " , str_word_count($name)."<br>";
-echo strrev($name);
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
 
-$income +=10;
-echo $income;
-?> 
+<!-- Navigation Bar -->
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+
+
+</body>
+</html>
